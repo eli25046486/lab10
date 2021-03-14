@@ -1,7 +1,5 @@
 ## Laboratory work X
 
-<a href="https://yandex.ru/efir/?stream_id=vxoj6Gf6H9Lg"><img src="https://raw.githubusercontent.com/tp-labs/lab10/master/preview.png" width="640"/></a>
-
 Данная лабораторная работа посвещена изучению процесса создания и конфигурирования виртуальной среды разработки с использованием **Vagrant**
 
 ```sh
@@ -143,5 +141,5 @@ $ gist REPORT.md
 - [Vagrant vmware esxi plugin](https://github.com/josenk/vagrant-vmware-esxi)
 
 ```
-Copyright (c) 2015-2020 The ISC Authors
+Copyright (c) 2015-2021 The ISC Authors
 ```
